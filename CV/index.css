@@ -1,0 +1,110 @@
+body{
+	background-image :url("IMG/full-bloom.png");
+	font-size:20px;
+	font-family:Sans Serif;
+
+}
+
+.active{
+	background-color:orange;
+	
+}
+
+.mail:visited{
+	color:blue;
+
+}
+
+nav{
+	display:inline;
+	
+}
+
+nav li {
+	list-style-type: none;
+	display:inline-block;
+	padding-left:60px;
+	padding-right:60px;
+	border-right:2px solid gray;
+	
+}
+nav li a{
+	font-style:italic;
+	font-weight:bolder;
+	margin-left:70px;
+	text-decoration:none;
+	color:gray;
+
+}
+
+nav li a:hover{
+	background-color:orange;
+
+}
+
+#profilCV{
+	background-color: rgba(100, 100, 100, 0.2);
+	font-size:20px;
+
+	border:1px solid black;
+
+	background-color:rgba(100, 100, 100, 0.4);
+	
+	margin-left:200px;
+	margin-right:200px;
+
+	display:flex;
+	flex-direction: row;
+
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+
+}
+
+#photo_profil{
+	border:3px solid black;
+	width:200px;
+	height:250px;
+}
+
+#resumeCVText{
+	width:250px;
+
+}
+
+.spaceContent{
+	margin:30px;
+
+}
+.ancre1{
+	margin-left:300px;
+
+	color:black;
+
+	font-style:italic;
+	font-weight:bolder;
+	font-family: Dejavu Sans;
+
+}
+
+#versionPDF{
+	border-radius:5px;
+	box-shadow:2px 2px 5px 1px black;
+	color:blue;
+	background-color:orange;
+	padding:5px;
+	margin:auto;
+}
+.versionPDF:visited{
+	color:blue;
+
+}
+
+#piedPage{
+	display:flex;
+	justify-content:space-between;
+	
+}
+
+
