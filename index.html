@@ -236,38 +236,45 @@ based in Brest, France. I bring ideas to life with web technologies.</p>
 	</section>-->
 
 
-<form action="https://formsubmit.io/send/9902e915-787d-47cb-9a92-fe9120c977ea" method="POST" class = "form-content" id = "contact-forma" autocomplete="on" onsubmit = "return validation();">
+<form role = "form" action="https://formsubmit.io/send/9902e915-787d-47cb-9a92-fe9120c977ea" method="POST" id = "contactform" autocomplete="on">
 	<section class="contact" id="contact-section">
 
-			<center><div id = "error_message"></div></center>
-			<input name="_redirect" type="hidden" id="name" value="https://iamcarlg.github.io/personal-portfolio/index.html">
+		<div class="form-group">
+					<input name="_redirect" type="hidden" id="name" value="https://iamcarlg.github.io/personal-portfolio/thankyou.html">
+			</div>
 
 			<h2 class="heading">Contact<span class="highlight"> me</span></h2>
 			<p class="sub-heading">I am interested in freelance opportunities - especially ambitious or large projects. However, if you have other request or question, don't hesitate to contact me using below form either.</p>
 			<div class="seperator"></div>
 
 			<div class="contact-form">
-					<div class="name">
-							<input type="text" class="first-name form-component" required placeholder="first name">
-							<input type="text" class="last-name form-component" required placeholder="last name">
+					<div class="name form-group">
+							<input type="text" id = "name"class="first-name form-control" required placeholder="first name">
+							<input type="text" id = "name" class="last-name form-control" required placeholder="last name">
 					</div>
-					<input type="email" required class="email form-component" placeholder="email">
-					<textarea class="message form-component" placeholder="message" required></textarea>
+
+					<div class="form-group">
+						<input type="email" required id = "email" class="email form-control" placeholder="email">
+					</div>
+
+					<div class="form-group">
+						<textarea id = "msg" class="message form-control" name = "comment" placeholder="message" required></textarea>
+					</div>
+
 
 					<input name="_formsubmit_id" type="text" style="display:none">
 									<!--Honeyspot : It's to avoid spam by fooling spambots -->
 
-					<button class="btn contact-btn" onclick="return validation();">contact</button>
+					<button type="submit" class="btn contact-btn submit_btn">contact</button>
 			</div>
 	</section>
-</form>
-
 
 </form>
+<!-- Contact Form End -->
 
 <script src = "project.js"></script>
 <script src = "app.js"></script>
-<script type="text/javascrip" src="contact.js">
+<script type="text/JavaScript" src="contact.js">
 
 
 </script>
