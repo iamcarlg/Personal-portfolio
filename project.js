@@ -70,7 +70,7 @@ const projects = [
     },
 
     {
-        name : "Instagram Newsletter",
+        name : "Space Invaders",
         tags : '#python',
         image : "project10.jpg",
         url : ""
