@@ -66,7 +66,7 @@ const projects = [
         name : "Instagram Newsletter",
         tags : '#html, #css, #javascript, #nodeJS',
         image : "project9.jpg",
-        url : ""
+        url : "http://safe-anchorage-86921.herokuapp.com/"
     },
 
     {
