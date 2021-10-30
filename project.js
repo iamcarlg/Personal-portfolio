@@ -49,7 +49,7 @@ const projects = [
     },
     {
         name : "portfolio page",
-        tags : '#html',
+        tags : '#html #css',
         image : 'project7.jpg',
         url : 'https://iamcarlg.github.io/portfolio-page/'
 
