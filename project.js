@@ -54,6 +54,21 @@ const projects = [
         url : 'https://iamcarlg.github.io/portfolio-page/'
 
     },
+
+    {
+        name : "restaurant showroom",
+        tags : '#html, #css, #javascript, #php',
+        image : "project8.jpg",
+        url : ""
+    },
+
+    {
+        name : "Instagram Newsletter",
+        tags : '#html, #css, #javascript, #nodeJS',
+        image : "project9.jpg",
+        url : ""
+    },
+
     {
         name : "moyo-ca",
         tags : '#visual-basic',
