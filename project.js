@@ -59,7 +59,7 @@ const projects = [
         name : "Restaurant showroom",
         tags : '#html, #css, #javascript, #php',
         image : "project8.jpg",
-        url : ""
+        url : "https://restaurantshowroom.herokuapp.com/"
     },
 
     {
