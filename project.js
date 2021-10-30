@@ -73,7 +73,7 @@ const projects = [
         name : "Space Invaders",
         tags : '#python',
         image : "project10.jpg",
-        url : ""
+        url : "https://github.com/iamcarlg/Space-Invaders"
     },
 
     {
