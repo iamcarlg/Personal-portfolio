@@ -80,14 +80,14 @@ const projects = [
         name : "moyo-ca",
         tags : '#visual-basic',
         image : 'project8.jpg',
-        url : 'https://drive.google.com/file/d/1Pr4qqO5ES1YTn7Cht-oTu9ATlZFZ8C-P/view'
+        url : 'https://drive.google.com/drive/folders/1N335XyjVKEqNlhpojhioN8CdDC6m_9iL?usp=sharing'
 
     },
     {
         name : "gprs",
         tags : '#visual-basic',
         image : 'project9.jpg',
-        url : 'https://drive.google.com/file/d/16409XHR6UCXTaiH5MKr4jg9CNEnrHLbn/view'
+        url : 'https://drive.google.com/drive/folders/1N335XyjVKEqNlhpojhioN8CdDC6m_9iL?usp=sharing'
 
     },
     {
