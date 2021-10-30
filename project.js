@@ -70,6 +70,13 @@ const projects = [
     },
 
     {
+        name : "Instagram Newsletter",
+        tags : '#python',
+        image : "project10.jpg",
+        url : ""
+    },
+
+    {
         name : "moyo-ca",
         tags : '#visual-basic',
         image : 'project8.jpg',
