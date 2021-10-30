@@ -56,7 +56,7 @@ const projects = [
     },
 
     {
-        name : "restaurant showroom",
+        name : "Restaurant showroom",
         tags : '#html, #css, #javascript, #php',
         image : "project8.jpg",
         url : ""
