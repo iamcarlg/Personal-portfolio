@@ -87,7 +87,7 @@ const projects = [
         name : "gprs",
         tags : '#visual-basic',
         image : 'project9.jpg',
-        url : 'https://drive.google.com/drive/folders/1N335XyjVKEqNlhpojhioN8CdDC6m_9iL?usp=sharing'
+        url : 'https://drive.google.com/drive/folders/1-827zzw90ApYXDbBCKrpIcrTSoHM3whA?usp=sharing'
 
     },
     {
