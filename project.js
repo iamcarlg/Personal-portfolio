@@ -61,6 +61,18 @@ const projects = [
         image : "project8.jpg",
         url : "https://restaurantshowroom.herokuapp.com/"
     },
+    {
+        name : "WebForEvent",
+        tags : '#html, #css, #javascript, #php #codeigniter',
+        image : "project8.jpg",
+        url : "https://webfortomatoes.herokuapp.com/"
+    },
+    {
+        name : "Restaurant showroom",
+        tags : '#html, #css, #javascript, #nodeJS',
+        image : "project8.jpg",
+        url : "https://netflix-clone-carl.herokuapp.com/"
+    },
 
     {
         name : "Instagram Newsletter",
