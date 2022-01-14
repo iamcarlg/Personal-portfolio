@@ -62,7 +62,7 @@ const projects = [
         url : "https://restaurantshowroom.herokuapp.com/"
     },
     {
-        name : "WebForEvent",
+        name : "WebForTomatoes",
         tags : '#html, #css, #javascript, #php #codeigniter',
         image : "project8.jpg",
         url : "https://webfortomatoes.herokuapp.com/"
