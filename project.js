@@ -61,18 +61,6 @@ const projects = [
         image : "project8.jpg",
         url : "https://restaurantshowroom.herokuapp.com/"
     },
-    {
-        name : "WebForTomatoes",
-        tags : '#html, #css, #javascript, #php #codeigniter',
-        image : "project8.jpg",
-        url : "https://webfortomatoes.herokuapp.com/"
-    },
-    {
-        name : "Restaurant showroom",
-        tags : '#html, #css, #javascript, #nodeJS',
-        image : "project8.jpg",
-        url : "https://netflix-clone-carl.herokuapp.com/"
-    },
 
     {
         name : "Instagram Newsletter",
@@ -108,5 +96,17 @@ const projects = [
         image : 'project10.jpg',
         url : 'https://drive.google.com/file/d/1rmn7gi_Ah0B5t5XpnQw3OkkFCT7tV7DI/view'
 
-    }
+    },
+    {
+        name : "webforevent",
+        tags : '#html, #css, #javascript, #php #codeigniter',
+        image : "project12.jpg",
+        url : "https://webfortomatoes.herokuapp.com/"
+    },
+    {
+        name : "Netflix 2.0 Clone",
+        tags : '#html, #css, #javascript, #nodeJS',
+        image : "project13.jpg",
+        url : "https://netflix-clone-carl.herokuapp.com/"
+    },
 ];
