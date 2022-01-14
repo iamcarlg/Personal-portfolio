@@ -79,34 +79,34 @@ const projects = [
     {
         name : "moyo-ca",
         tags : '#visual-basic',
-        image : 'project8.jpg',
+        image : 'project11.jpg',
         url : 'https://drive.google.com/drive/folders/1N335XyjVKEqNlhpojhioN8CdDC6m_9iL?usp=sharing'
 
     },
     {
         name : "gprs",
         tags : '#visual-basic',
-        image : 'project9.jpg',
+        image : 'project12.jpg',
         url : 'https://drive.google.com/drive/folders/1-827zzw90ApYXDbBCKrpIcrTSoHM3whA?usp=sharing'
 
     },
     {
         name : "shutdown-timer",
         tags : '#visual-basic',
-        image : 'project10.jpg',
+        image : 'project13.jpg',
         url : 'https://drive.google.com/file/d/1rmn7gi_Ah0B5t5XpnQw3OkkFCT7tV7DI/view'
 
     },
     {
         name : "webforevent",
         tags : '#html, #css, #javascript, #php #codeigniter',
-        image : "project12.jpg",
+        image : "project14.jpg",
         url : "https://webfortomatoes.herokuapp.com/"
     },
     {
         name : "Netflix 2.0 Clone",
         tags : '#html, #css, #javascript, #nodeJS',
-        image : "project13.jpg",
+        image : "project15.jpg",
         url : "https://netflix-clone-carl.herokuapp.com/"
     },
 ];
