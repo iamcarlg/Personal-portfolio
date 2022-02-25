@@ -107,6 +107,6 @@ const projects = [
         name : "Netflix 2.0 Clone",
         tags : '#html, #css, #javascript, #reactjs, #nodeJS',
         image : "project15.jpg",
-        url : "https://netflix-clone-carl.herokuapp.com/"
+        url : "https://netflix-clone-carl.web.app/"
     },
 ];
