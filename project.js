@@ -109,4 +109,11 @@ const projects = [
         image : "project15.jpg",
         url : "https://netflix-clone-carl.web.app/"
     },
+
+    {
+        name : "Sneakers Ecommerce Website",
+        tags : '#EJS, #css, #javascript, #nodeJS, #mongoDB, #google-auth20',
+        image : "project17.jpg",
+        url : "https://supersneakers.herokuapp.com/"
+    },
 ];
