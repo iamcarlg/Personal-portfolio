@@ -5,54 +5,24 @@ const projectContainer = document.querySelector('.project-container');
 const projects = [
 
     {
-        name : "magic planet",
-        tags : '#html, #css',
-        image : 'project1.jpg',
-        url : 'https://iamcarlg.github.io/Magic-Planet/public/index.html'
-
+        name : "Sneakers Ecommerce Website",
+        tags : '#ejs, #css, #javascript, #nodeJS, #mongodb, #google-auth20',
+        image : "project17.jpg",
+        url : "https://supersneakers.herokuapp.com/"
     },
-    {
-        name : "talents BTP",
-        tags : '#html, #css, #javascript',
-        image : 'project2.jpg',
-        url : 'https://iamcarlg.github.io/Plumbing-Services/'
 
+    {
+        name : "Netflix 2.0 Clone",
+        tags : '#html, #css, #javascript, #reactjs, #nodeJS',
+        image : "project15.jpg",
+        url : "https://netflix-clone-carl.web.app/"
     },
+
     {
-        name : "curriliculum vitae",
-        tags : '#html, #css',
-        image : 'project3.jpg',
-        url : 'https://iamcarlg.github.io/curriculum-vitae/index.html'
-
-    },
-    {
-        name : "tribute page",
-        tags : '#html, #css',
-        image : 'project4.jpg',
-        url : 'https://iamcarlg.github.io/tribute-page/index.html'
-
-    },
-    {
-        name : "product landing page",
-        tags : '#html, #css',
-        image : 'project5.jpg',
-        url : 'https://iamcarlg.github.io/product-landing-page/index.html'
-
-    },
-    {
-        name : "technical documentation page",
-        tags : '#html, #css',
-        image : 'project6.jpg',
-        url : 'https://iamcarlg.github.io/technical-documentation-page/'
-
-
-    },
-    {
-        name : "portfolio page",
-        tags : '#html #css',
-        image : 'project7.jpg',
-        url : 'https://iamcarlg.github.io/portfolio-page/'
-
+        name : "webforevent",
+        tags : '#html, #css, #javascript, #php, #codeigniter',
+        image : "project14.jpg",
+        url : "https://webfortomatoes.herokuapp.com/"
     },
 
     {
@@ -63,8 +33,24 @@ const projects = [
     },
 
     {
+        name : "talents BTP",
+        tags : '#html, #css, #javascript, #professional_project',
+        image : 'project2.jpg',
+        url : 'https://iamcarlg.github.io/Plumbing-Services/'
+
+    },
+
+    {
+        name : "magic planet",
+        tags : '#html, #css',
+        image : 'project1.jpg',
+        url : 'https://iamcarlg.github.io/Magic-Planet/public/index.html'
+
+    },
+
+    {
         name : "Instagram Newsletter",
-        tags : '#html, #css, #javascript, #nodeJS',
+        tags : '#html, #css, #javascript, #nodeJS, #expressJS',
         image : "project9.jpg",
         url : 'http://safe-anchorage-86921.herokuapp.com/'
     },
@@ -96,24 +82,5 @@ const projects = [
         image : 'project13.jpg',
         url : 'https://drive.google.com/file/d/1rmn7gi_Ah0B5t5XpnQw3OkkFCT7tV7DI/view'
 
-    },
-    {
-        name : "webforevent",
-        tags : '#html, #css, #javascript, #php #codeigniter',
-        image : "project14.jpg",
-        url : "https://webfortomatoes.herokuapp.com/"
-    },
-    {
-        name : "Netflix 2.0 Clone",
-        tags : '#html, #css, #javascript, #reactjs, #nodeJS',
-        image : "project15.jpg",
-        url : "https://netflix-clone-carl.web.app/"
-    },
-
-    {
-        name : "Sneakers Ecommerce Website",
-        tags : '#EJS, #css, #javascript, #nodeJS, #mongoDB, #google-auth20',
-        image : "project17.jpg",
-        url : "https://supersneakers.herokuapp.com/"
-    },
+    }
 ];
