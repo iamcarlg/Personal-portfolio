@@ -8,7 +8,7 @@ const projects = [
         name : "Sneakers Ecommerce Website",
         tags : '#ejs, #css, #javascript, #nodeJS, #mongodb, #google-auth20',
         image : "project17.jpg",
-        url : "https://supersneakers.herokuapp.com/"
+        url : "http://supersneakers.herokuapp.com/"
     },
 
     {
