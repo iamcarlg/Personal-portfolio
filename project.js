@@ -5,29 +5,36 @@ const projectContainer = document.querySelector('.project-container');
 const projects = [
 
     {
+        name : "FastLux Food Delivery App",
+        tags : '#fullstack-web-app, #ejs, #css, #javascript, #nodeJS, #mongodb, #google-auth20',
+        image : "project18.jpg",
+        url : "http://fastlux.herokuapp.com/"
+    },
+
+    {
         name : "Sneakers Ecommerce Website",
-        tags : '#ejs, #css, #javascript, #nodeJS, #mongodb, #google-auth20',
+        tags : '#fullstack-web-app, #ejs, #css, #javascript, #nodeJS, #mongodb, #google-auth20',
         image : "project17.jpg",
         url : "http://supersneakers.herokuapp.com/"
     },
 
     {
         name : "Netflix 2.0 Clone",
-        tags : '#html, #css, #javascript, #reactjs, #nodeJS',
+        tags : '#fullstack-web-app, #html, #css, #javascript, #reactjs, #nodeJS',
         image : "project15.jpg",
         url : "https://netflix-clone-carl.web.app/"
     },
 
     {
         name : "webforevent",
-        tags : '#html, #css, #javascript, #php, #codeigniter',
+        tags : '#fullstack-web-app, #html, #css, #javascript, #php, #codeigniter',
         image : "project14.jpg",
         url : "https://webfortomatoes.herokuapp.com/"
     },
 
     {
         name : "Restaurant showroom",
-        tags : '#html, #css, #javascript, #php',
+        tags : '#fullstack-web-app, #html, #css, #javascript, #php',
         image : "project8.jpg",
         url : "https://restaurantshowroom.herokuapp.com/"
     },
@@ -50,7 +57,7 @@ const projects = [
 
     {
         name : "Instagram Newsletter",
-        tags : '#html, #css, #javascript, #nodeJS, #expressJS',
+        tags : '#fullstack-web-app, #html, #css, #javascript, #nodeJS, #expressJS',
         image : "project9.jpg",
         url : 'http://safe-anchorage-86921.herokuapp.com/'
     },
