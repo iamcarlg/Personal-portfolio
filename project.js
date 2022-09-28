@@ -61,7 +61,7 @@ const projects = [
     
      {
         name : "Eglise Adventiste du 7ème Jour de Brest",
-        tags : '#html, #css, #javascript, #professional-website',
+        tags : '#html, #css, #javascript, #nodeJS, #professional-website',
         image : 'project16.jpg',
         url : 'https://brest-adventiste.org/'
 
