@@ -9,7 +9,6 @@ const projects = [
         image : "project1.jpg",
         url : "https://twitter-2-0-cgr.vercel.app/"
     },
-
     {
         name : "Hulu 2.0 App",
         tags : '#fullstack-web-app, #NextJS, #TailwindCSS',
