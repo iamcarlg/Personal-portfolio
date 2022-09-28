@@ -58,6 +58,15 @@ const projects = [
         url : 'https://iamcarlg.github.io/Plumbing-Services/'
 
     },
+    
+     {
+        name : "Eglise Adventiste du 7ème Jour de Brest",
+        tags : '#html, #css, #javascript, #professional-website',
+        image : 'project16.jpg',
+        url : 'https://brest-adventiste.org/'
+
+    },
+    
 
     {
         name : "Instagram Newsletter",
